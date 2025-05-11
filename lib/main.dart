@@ -4,7 +4,7 @@ import 'package:one_piece/src/pages/home_page.dart';
 void main() {
   runApp(const MyApp());
 }
-
+//Clase de arranque
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
